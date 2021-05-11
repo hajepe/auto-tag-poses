@@ -1,2 +1,2 @@
-# future-sts
-Predict future Sales with Time Series Modelling
+# Pose 
+Auto-generated tagging with image classification. 
