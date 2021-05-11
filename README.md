@@ -1,2 +1,2 @@
-# YPose Tagging
-Auto-generated tagging with image classification. 
+# YPose
+Auto-generated tagging of poses with image classification. 
